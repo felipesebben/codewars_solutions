@@ -1,22 +1,4 @@
-<!-- index. html -->
-
-<!-- ... -->
-<style>
-    body {
-        background-color: rgb(13,17,23);
-        color: rgb(230, 242, 235);
-        font-family: "Montserrat", sans-serif;
-        font-size: 1em;
-    }
-
-    a {
-        color: rgb(255, 111, 111);
-    }
-</style>
-<!-- ... -->
-
 <h1><strong>Categorize New Member</strong></h1>
-
 
 <h2><strong>Instructions:</strong></h2>
 <hr>
