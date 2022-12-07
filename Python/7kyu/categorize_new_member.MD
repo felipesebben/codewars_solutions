@@ -20,7 +20,6 @@ output = ["Open", "Open", "Senior", "Open", "Open", "Senior"]
 </pre>
 
 <h2><strong>Solution #1:</strong></h2>
-<hr>
 
 ``` python
 def open_or_senior(data):
@@ -33,7 +32,7 @@ def open_or_senior(data):
     return result
 ```
 
-<h3><b>How did I do it?</b><h3>
+<h3><b>How did I do it?</b></h3>
 <p>
     <ol>
     <li> Create an empty list to store the string values.</li>
