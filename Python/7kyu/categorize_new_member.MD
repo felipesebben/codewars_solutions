@@ -1,18 +1,17 @@
 <h1><strong>Categorize New Member</strong></h1>
 
 <h2><strong>Instructions:</strong></h2>
-<hr>
 
 <p>The Western Suburbs Croquet Club has two categories of membership, Senior and Open. They would like your help with an application form that will tell prospective members which category they will be placed.
 
 To be a senior, a member must be at least 55 years old and have a handicap greater than 7. In this croquet club, handicaps range from -2 to +26; the better the player the lower the handicap.</p>
 
 <h2><strong>Output:</strong></h2>
-<hr>
+
 <p>Output will consist of a list of string values (in Haskell and C: <code>Open</code> or <code>Senior</code>) stating whether the respective member is to be placed in the senior or open category.</p>
 
 <h2><strong>Example:</strong></h2>
-<hr>
+
 <pre>
     <code>
 input =  [[18, 20], [45, 2], [61, 12], [37, 6], [21, 21], [78, 9]]
@@ -34,7 +33,7 @@ def open_or_senior(data):
     return result
 ```
 
-<h3><strong>How did I do it?</strong><h3>
+<h3><b>How did I do it?</b><h3>
 <p>
     <ol>
     <li> Create an empty list to store the string values.</li>
@@ -44,12 +43,12 @@ def open_or_senior(data):
     <li> Return the appended list.
     </ol>
 </p>
+
 <h3><strong>What did I learn?</strong>
 <p>It was a good way to practice indexing with lists. Also, I reviewed the usage of <code>and</code> in multiple conditional statements</p>
 <br>
 
 <h2><strong>Solution #2</strong></h2>
-<hr>
 
 ``` python
 def open_or_senior(data):
@@ -69,12 +68,5 @@ def open_or_senior(data):
 <h3><strong>What did I learn?</strong></h3>
 I learned how to use list comprehensions together with comparing values with indexation. Mastering list comprehensions requires practice, as it is a unique pythonic language.
 <hr>
-</body>
-<style>
-a:link {
-  color: rgb(70, 30, 163);
-  background-color: transparent;
-  text-decoration: none;
-}
-</style>
+
 <a href='https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa/train/python'>See on CodeWars.com</a>
