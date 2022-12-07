@@ -43,7 +43,7 @@ def open_or_senior(data):
     </ol>
 </p>
 
-<h3><strong>What did I learn?</strong>
+<h3><strong>What did I learn?</strong></h3>
 <p>It was a good way to practice indexing with lists. Also, I reviewed the usage of <code>and</code> in multiple conditional statements</p>
 <br>
 
